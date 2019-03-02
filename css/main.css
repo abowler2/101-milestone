@@ -37,6 +37,7 @@ h4 {
 #contact {
   height: 450px;
   background: #cae9d9;
+  text-align: center;
 }
 
 .full-width {
@@ -63,6 +64,12 @@ h4 {
   height: 350px;
   width: 550px;
   margin: 25px 0 55px 50px;
+}
+
+.email {
+  color: #484944;
+  text-decoration: none;
+  font-size: 24px;
 }
 
 /***** HEADER *****/
@@ -132,3 +139,46 @@ header p {
   font-weight: 400;
 }
 
+/***** CONTACT *****/
+
+#contact h2 {
+  margin: 0 0 50px 0;
+}
+
+#contact h3 {
+  margin: 50px 0 20px 0;
+}
+
+#contact p {
+  font-size: 24px;
+  margin: 0 auto;
+}
+
+#contact ul {
+  width: 100%;
+  padding: 0;
+}
+
+#contact ul li {
+  display: inline-block;
+}
+
+#contact ul li a {
+  text-decoration: none;
+  padding: 0 20px;
+}
+
+/***** FOOTER *****/
+
+footer {
+  background: #cae9d9;
+  text-align: center;
+}
+
+footer p {
+  margin: 0 auto;
+}
+
+footer p span {
+  color: #b46a79;
+}
