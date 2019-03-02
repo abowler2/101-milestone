@@ -1,7 +1,8 @@
 /***** BASE STYLES *****/
 
 body {
-  color: #484848;
+  background: #ffffff;
+  color: #b46a79;
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
 }
@@ -31,12 +32,12 @@ h4 {
 
 #about {
   height: 650px;
-  background: #eeaac3;
+  background: #cae9d9;
 }
 
 #contact {
   height: 450px;
-  background: #cae9d9;
+  background: #93d2b1;
   text-align: center;
 }
 
@@ -67,7 +68,7 @@ h4 {
 }
 
 .email {
-  color: #484944;
+  color: #b46a79;
   text-decoration: none;
   font-size: 24px;
 }
@@ -179,5 +180,5 @@ footer p {
 }
 
 footer p span {
-  color: #b46a79;
+  color: #eeaac3;
 }
