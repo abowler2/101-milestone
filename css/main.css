@@ -1,8 +1,9 @@
 /***** BASE STYLES *****/
 
 body {
-  font-family: 'Roboto', sans-serif;
   color: #484848;
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
 }
 
 h1, h2 {
@@ -21,7 +22,6 @@ h3 {
 }
 
 h4 {
-  font-size: 24px;
   font-weight: 400;
 }
 
@@ -129,7 +129,6 @@ header p {
 }
 
 #about p {
-  font-size: 24px;
   padding: 10px 50px 0 0 ;
 }
 
@@ -150,7 +149,6 @@ header p {
 }
 
 #contact p {
-  font-size: 24px;
   margin: 0 auto;
 }
 
@@ -177,6 +175,7 @@ footer {
 
 footer p {
   margin: 0 auto;
+  font-size: 18px;
 }
 
 footer p span {
