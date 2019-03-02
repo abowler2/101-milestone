@@ -11,6 +11,8 @@ h1, h2 {
 
 h2 {
   font-size: 36px;
+  text-align: center;
+  padding: 30px 0px 25px 0;
 }
 
 h3 {
@@ -29,15 +31,16 @@ h4 {
 
 #about {
   height: 650px;
+  background: #eeaac3;
 }
 
 #contact {
   height: 450px;
+  background: #cae9d9;
 }
 
 .full-width {
   width: 1200px;
-  margin: 0, auto;
 }
 
 .half-width {
@@ -90,8 +93,6 @@ header p {
 
 #work h2 {
   color: #b46a79;
-  text-align: center;
-  padding: 30px 25px 50px 0;
 }
 
 #work img {
@@ -115,7 +116,19 @@ header p {
 /***** ABOUT *****/
 
 #about img {
-  height: 400px;
-  width: 300px;
+  height: 450px;
+  width: 350px;
+  margin: 0 150px;
+}
+
+#about p {
+  font-size: 24px;
+  padding: 10px 50px 0 0 ;
+}
+
+#about h3 span {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
 }
 
