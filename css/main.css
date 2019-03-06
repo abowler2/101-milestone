@@ -95,6 +95,23 @@ header p {
   line-height: 60px;
 }
 
+nav {
+  float: right;
+  padding: 20px 25px;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  color: #b46a79;
+  font-size: 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-left: 30px;
+}
+
 /***** WORK ******/
 
 
