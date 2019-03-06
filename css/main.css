@@ -56,6 +56,19 @@ h4 {
   float: left;
 }
 
+.homepage-header {
+  height: 800px;
+  background: url('../img/hero.jpg');
+  background-size: cover;
+}
+
+.page-header {
+  color: #eeaac3;
+  height: 300px;
+  background: url('../img/page-header.png');
+  background-size: cover;
+}
+
 .img-box {
   height: 350px;
   width: 550px;
@@ -74,13 +87,31 @@ h4 {
   font-size: 24px;
 }
 
-/***** HEADER *****/
-
-header {
-  height: 800px;
-  background: url('../img/hero.jpg');
-  background-size: cover;
+.work-page-img1 {
+  width: 1000px;
+  height: 720px;
+  margin-left: 130px;
+  padding: 10px;
+  border: 3px solid #b46a79;
 }
+
+.work-page-img2 {
+  width: 600px;
+  height: 1219px;
+  margin-left: 350px;
+  padding: 10px;
+  border: 3px solid #b46a79;
+}
+
+.work-page-img3 {
+  width: 600px;
+  height: 1064px;
+  margin-left: 350px;
+  padding: 10px;
+  border: 3px solid #b46a79;
+}
+
+/***** HEADER *****/
 
 header h1 {
   font-size: 60px;
